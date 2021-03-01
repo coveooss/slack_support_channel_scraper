@@ -1,0 +1,5 @@
+dacite
+matplotlib
+pandas
+pyyaml
+slack_sdk
